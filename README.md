@@ -17,7 +17,7 @@ Siga os passos a seguir e você será capaz de rodar esse proxy em instantes e s
 **Passos a seguir:**
 
 - Faça um clone desse repositório:
-`git clone https://github.com/hadagalberto/python-proxy.git proxy`
+- `git clone https://github.com/hadagalberto/python-proxy.git proxy`
 - Entre na pasta:
 - `cd proxy`
 - Configure o servidor:
