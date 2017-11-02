@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# -*- coding: utf-8 -*-
+
+
 from pprint import pprint
 import sys
 import http.client
