@@ -17,6 +17,10 @@ Foi modificado por [@HiddenBR](https://t.me/HiddenBR "@HiddenBR") para não ser 
 **Como usar**
 -------------
 
+Veja esse vídeo e aprenda a instalar: https://youtu.be/ZhFtD8m72QA - Créditos pelo vídeo: https://t.me/kroz44
+
+
+
 Siga os passos a seguir e você será capaz de rodar esse proxy em instantes e sem nenhum problema!
 
 **Passos a seguir:**
