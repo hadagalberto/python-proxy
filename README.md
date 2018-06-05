@@ -40,4 +40,4 @@ Siga os passos a seguir e você será capaz de rodar esse proxy em instantes e s
 
 --------
 
-**Lembrando que esse proxy ainda está em fase de desenvolvimento, poderão ocorrer bugs inesperados **
+**Lembrando que esse proxy ainda está em fase de desenvolvimento, poderão ocorrer bugs inesperados**
